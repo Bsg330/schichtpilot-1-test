@@ -1,1 +1,1 @@
-SchichtPilot Beta 1.0.4: In-App-Druckvorschau mit Zurueck-Button; Icons mit transparentem Rand. Vor Update JSON-Backup exportieren.
+SchichtPilot 1.0.5 Beta – AZK und Menüanordnung. Vor Installation JSON-Sicherung erstellen. Dateien in das bestehende GitHub-Test-Repository hochladen. Nettoangaben sind Näherungen; Impressum vor öffentlichem Test ergänzen.
