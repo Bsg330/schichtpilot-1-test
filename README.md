@@ -1,1 +1,1 @@
-SchichtPilot 1.0.3 Beta – Mehrfachschichten, Stundenübersicht, detaillierte aber unverbindliche Abrechnungsprognose, PDF-Druckansichten, Updateprüfung, Hilfe, Feedback, Impressum. Vor Update JSON-Datensicherung exportieren. Alle sieben Dateien ins TEST-Repository hochladen. Lohnsteuer und Sozialversicherung sind Näherungen und keine amtliche Berechnung. Anbieterangaben im Impressum ergänzen.
+SchichtPilot Beta 1.0.4: In-App-Druckvorschau mit Zurueck-Button; Icons mit transparentem Rand. Vor Update JSON-Backup exportieren.
